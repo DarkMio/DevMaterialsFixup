@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Dev/map_edge_dire"
+	"$surfaceprop" "dirt"
+}
